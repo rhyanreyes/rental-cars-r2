@@ -1,0 +1,26 @@
+{
+  "name": "rentalcars-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "gulp": "^3.9.1",
+    "react": "^16.5.1",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-dom": "^16.5.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.0",
+    "semantic-ui": "^2.3.3",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:59435"
+}
